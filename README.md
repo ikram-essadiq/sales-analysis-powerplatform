@@ -22,31 +22,31 @@ Ce projet présente une application complète développée avec **Power Apps**, 
 ![connexion](connexion.PNG)
 
 ### Vérification du code
-![Code de vérification](OTP.png)
+![Code de vérification](OTP.PNG)
 
 
 
 ### Tableau de bord Power BI
 ### Acceuil
-![Acceuil Bi](Acceuil.png)
+![Acceuil Bi](Acceuil.PNG)
 
 ### Dashboard Produit
-![Produit](ProduitDash.png)
+![Produit](ProduitDash.PNG)
 
 ### Filtre
-![Produit](Produitfiltre.png)
+![Produit](Produitfiltre.PNG)
 
 ### Dashboard Client
-![client](ClientDash.png)
+![client](ClientDash.PNG)
 
 ### Dashboard Vente
-![Vente](VenteDash.png)
+![Vente](VenteDash.PNG)
 
 ### Dashboard Vente Détails
-![Détails](VenteDet.png)
+![Détails](VenteDet.PNG)
 
 ### Démonstration
-![BI](BI.mp4)
+![BI](BI.MP4)
 
 ## 🛠️ Technologies utilisées
 
