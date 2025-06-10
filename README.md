@@ -46,7 +46,7 @@ Ce projet présente une application complète développée avec **Power Apps**, 
 ![Détails](VenteDet.PNG)
 
 ### Démonstration
-![BI](BI.MP4)
+![BI](BI.mp4)
 
 ## 🛠️ Technologies utilisées
 
